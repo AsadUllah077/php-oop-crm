@@ -52,9 +52,9 @@ $recentSales = $saleObj->getAll(1, 5);
         <div class="d-flex justify-content-between align-items-center mb-4">
             <h2>Dashboard Overview</h2>
             <div>
-                <a href="<?php echo ROOT_URL; ?>products/create_product.php" class="btn btn-primary me-2">
+                <!-- <a href="<?php echo ROOT_URL; ?>products/create_product.php" class="btn btn-primary me-2">
                     <i class="fas fa-plus me-1"></i> Add Product
-                </a>
+                </a> -->
                 <button class="btn btn-outline-secondary">
                     <i class="fas fa-bell"></i>
                 </button>

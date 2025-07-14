@@ -1,6 +1,6 @@
 <div class="sidebar" style="width: 250px;">
             <div class="sidebar-header d-flex justify-content-between align-items-center">
-                <h4 class="m-0">MyOwn Dashboard</h4>
+                <h4 class="m-0">MyOwn CRM</h4>
                 <!-- <button class="toggle-btn" id="toggleSidebar">
                     <i class="fas fa-bars"></i>
                 </button> -->
@@ -8,7 +8,7 @@
             <nav class="nav flex-column mt-3">
                 <a href="<?= ROOT_URL ?>index.php" class="nav-link ">
                     <i class="fas fa-tachometer-alt"></i>
-                    <span>Dashboard</span>
+                     <span>Dashboard</span>
                 </a>
                 
                 <a href="<?= ROOT_URL ?>categories/categories.php" class="nav-link">
